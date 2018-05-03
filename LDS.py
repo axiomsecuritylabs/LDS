@@ -8,7 +8,7 @@ from termcolor import colored
 #Lab Deployment System for VMware ESXi
 #Joe Dillig - AxiomSecurityLabs 10/26/17
 
-Version='0.2.1'
+Version='0.1'
 
 
 #Change Log
